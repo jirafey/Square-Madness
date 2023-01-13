@@ -1,5 +1,2 @@
-<head>
-<link rel="shortcut icon" type="image/png" href="https://github.com/Jirafey/Square-Madness/blob/main/assets/Sprites/triangle-purple.png">
-</head>
-
+![Logo](http://francky.me/images/quora001.png)
 Geojam 2022 submission
